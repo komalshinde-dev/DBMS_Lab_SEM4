@@ -1,0 +1,46 @@
+Consider the following schema
+
+account(acc-no,branch-name,balance)
+
+depositor(cust-name,acc-no)
+
+borrower (cust-name, loan-no)
+
+loan (loan - no, branch - name, amount)
+
+Write following queries using SQL
+
+1. Create tables using proper primary keys
+
+
+2. Update information of particular customer
+
+
+3. Find the customers having loan less than 1 lac
+
+
+4. Display account number and customer name starting with ‘P’
+
+
+5. Display name of the depositor with balance
+
+
+6. Find names of all customers who have a loan at the ‘Redwood branch’.
+
+
+7. Find all customers who have an account and loan or both.
+
+
+8. Find all customers who do not have loan
+
+
+9. Find average account balance at each branch.
+
+
+10. Find the name of borrower having maximum loan amount
+
+
+
+
+
+
