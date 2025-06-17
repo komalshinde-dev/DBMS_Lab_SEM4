@@ -1,15 +1,3 @@
-Consider the given Database Schema:
-
-employee (employee-name, street, city)
-
-works (employee-name, company-name, salary)
-
-company (company-name, city)
-
-manages (employee-name, manager-name)
-
-
-
 
 CREATE TABLE employee (
     employee_name VARCHAR(50),
